@@ -1,0 +1,6 @@
+{
+  "name": "Mick AI OS",
+  "description": "A next-generation web-based AI Operating System featuring a desktop interface, Gemini AI Copilot, Image Studio, Terminal, File Manager, and Productivity Apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
